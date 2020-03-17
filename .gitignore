@@ -4,3 +4,5 @@
 /.psci*
 /src/.webpack.js
 .psc-ide-port
+/.spago/
+.purs-repl
