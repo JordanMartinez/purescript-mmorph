@@ -6,3 +6,4 @@
 .psc-ide-port
 /.spago/
 .purs-repl
+/generated-docs/
